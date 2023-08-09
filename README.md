@@ -1,2 +1,2 @@
 # MachineLearning
-This is my studying repository of machine learning.
+This is the repository where I'm studying machine learning.
